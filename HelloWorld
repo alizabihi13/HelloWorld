@@ -1,9 +1,0 @@
-// learn java withe danial 
-
-Calss HelloWorld
-{
-	public static void main (string args[])
-	{
-		System.out.println("HelloWorld!")
-	}
-}
